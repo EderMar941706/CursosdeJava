@@ -43,5 +43,6 @@ public class java1 {
                  System.out.println("eso es todo!! logaraste la cantidad exacta !Tugasnas¡");
                  }
              }
- }
+
+}
 
